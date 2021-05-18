@@ -6,4 +6,4 @@
 
 ![image](https://user-images.githubusercontent.com/46768760/118618089-398c3c00-b7fe-11eb-9c98-41bd9f3d6fb9.png)
 
-[포트폴리오_예.pdf](https://github.com/JuHyeon-S/Portfolio/files/6499607/_.pdf)
+![image](https://user-images.githubusercontent.com/46768760/118620099-27ab9880-b800-11eb-85b8-4a8f79140c0a.png)
