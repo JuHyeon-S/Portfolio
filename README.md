@@ -7,4 +7,4 @@
 ![image](https://user-images.githubusercontent.com/46768760/118618089-398c3c00-b7fe-11eb-9c98-41bd9f3d6fb9.png)
 
 ## [메모앱](https://www.naver.com/)
-![image](https://user-images.githubusercontent.com/46768760/118620395-6fcabb00-b800-11eb-88be-4561fe663fcb.png)
+[![image](https://user-images.githubusercontent.com/46768760/118620395-6fcabb00-b800-11eb-88be-4561fe663fcb.png)](https://www.naver.com/)
